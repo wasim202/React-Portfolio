@@ -7,6 +7,7 @@ import ViewTables from './view-tables.png'
 
 export default function Portfolio() {
   return (
+    
     <>
     <Container>
       <Card sm ="6">
@@ -55,5 +56,6 @@ export default function Portfolio() {
       </Card>
       </Container>
     </>
+    
   )
 }

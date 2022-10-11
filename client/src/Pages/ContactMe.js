@@ -17,6 +17,7 @@ export default function ContactUs() {
 }
 
 return (
+  <div className='container d-flex flex-column min vh-100'>
   <form className="contact-form" onSubmit={sendEmail}>
 <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
 <Form.Label>Name</Form.Label>
@@ -46,6 +47,7 @@ return (
       Submit
 </Button>
 </form> 
+</div>
 );
 }
 
