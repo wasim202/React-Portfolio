@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.fd226191.css",
+    "main.js": "/React-Portfolio/static/js/main.45f035c1.js",
+    "static/media/Movie-Database.png": "/React-Portfolio/static/media/Movie-Database.bd317da8e605e70dfd09.png",
+    "static/media/Wasim-resume-New.pdf": "/React-Portfolio/static/media/Wasim-resume-New.a05dc49b03dd9f692ac4.pdf",
+    "static/media/view-tables.png": "/React-Portfolio/static/media/view-tables.de120df1db160df84ff9.png",
+    "static/media/home-page.png": "/React-Portfolio/static/media/home-page.5d4bb9b4c912c0f7e35b.png",
+    "static/media/Five-Guys.png": "/React-Portfolio/static/media/Five-Guys.6c8d373e926e7b843cc9.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.fd226191.css.map": "/React-Portfolio/static/css/main.fd226191.css.map",
+    "main.45f035c1.js.map": "/React-Portfolio/static/js/main.45f035c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd226191.css",
+    "static/js/main.45f035c1.js"
+  ]
+}
