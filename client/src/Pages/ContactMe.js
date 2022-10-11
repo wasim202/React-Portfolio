@@ -1,7 +1,8 @@
 import React, {useRef} from 'react'
 import emailjs from '@emailjs/browser';
-import Form from 'react-bootstrap/Form';
-import Button from 'react-bootstrap/Button';
+//import Form from 'react-bootstrap/Form';
+//import Button from 'react-bootstrap/Button';
+
 
 export default function ContactMe() {
   const form = useRef();
@@ -9,7 +10,7 @@ export default function ContactMe() {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_rjf3qb9', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_PUBLIC_KEY')
+    emailjs.sendForm('service_rjf3qb9', 'template_kn9pyhp', form.current, 'CE1ETEn5lJ4is29tv')
       .then((result) => {
           console.log(result.text);
       }, (error) => {

@@ -1,6 +1,6 @@
 import React from 'react'
 import resume from './Wasim-resume-New.pdf';
-import { Link } from 'react-router-dom';
+
 
 
 
